@@ -6,7 +6,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/goit-react-hw-05">
+    <BrowserRouter basename="/zad-5-test">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
